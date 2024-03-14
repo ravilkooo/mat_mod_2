@@ -1,0 +1,56 @@
+﻿  Application.cpp
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(41,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(42,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(349,27): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(356,11): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(357,29): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(374,27): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(381,11): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(382,29): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(491,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(500,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.h(79,25): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.cpp(69): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Application::cellForEach<Application::{ctor}::<lambda_e6648ee173fbbd71179e1ec9202eba90>>(F)"
+          with
+          [
+              F=Application::{ctor}::<lambda_e6648ee173fbbd71179e1ec9202eba90>
+          ]
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application.h(80,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Application_2.cpp
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(48,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(49,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(160,21): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(164,11): warning C4018: >=: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(164,30): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(165,11): warning C4018: >=: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(165,30): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(406,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(415,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.h(94,25): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.cpp(86): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Application_2::cellForEach<Application_2::{ctor}::<lambda_c50d2b8a8e7729575c4b22c53fbdf88a>>(F)"
+          with
+          [
+              F=Application_2::{ctor}::<lambda_c50d2b8a8e7729575c4b22c53fbdf88a>
+          ]
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_2.h(95,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Application_3.cpp
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(61,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(62,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(78,9): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(76,9): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(244,25): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(254,18): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(325,8): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(323,8): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.h(107,25): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.cpp(103): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Application_3::cellForEach<Application_3::{ctor}::<lambda_1c15f11eab08153a1b2033ce1eed8a09>>(F)"
+          with
+          [
+              F=Application_3::{ctor}::<lambda_1c15f11eab08153a1b2033ce1eed8a09>
+          ]
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Application_3.h(108,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Random.cpp
+Z:\my_labs\mat_mod_2\matmod2_lab1\matmod2_lab1\Random.cpp(4,32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  matmod2_lab1.cpp
+  Создание кода...
+  matmod2_lab1.vcxproj -> Z:\my_labs\mat_mod_2\matmod2_lab1\Debug\matmod2_lab1.exe

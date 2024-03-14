@@ -1,0 +1,7 @@
+_*
+__pycache__
+.vscode
+*.exe
+*.out
+.vs
+*_eigen_*.txt
